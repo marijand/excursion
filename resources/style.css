@@ -1,4 +1,4 @@
-*{
+body{
   background-color: black;
   text-align: center;
   font-family: verdana, sans-serif;
@@ -16,7 +16,7 @@ h2{
   color: white;
 }
 
-.text{
+.p{
   font-size: 21px;
   color: gray;
 }
