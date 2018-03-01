@@ -1,16 +1,35 @@
+*{
+  background-color: black;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+
 h1{
   font-weight: normal;
   font-size: 50px;
   color: white;
 }
 
+h2{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h3{
+  font-size: 21px;
+  color: gray;
+}
 p{
   color: aquamarine;
   font-size: 16px;
 }
 
-*{
-  background-color: black;
-  text-align: center;
-  font-family: verdana, sans-serif;
+img{
+  padding: 30px;
+}
+
+.footer{
+  text-align: right;
+  color: gray;
 }
