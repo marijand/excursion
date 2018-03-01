@@ -16,20 +16,17 @@ h2{
   color: white;
 }
 
-h3{
+.text{
   font-size: 21px;
   color: gray;
 }
-p{
+
+.link{
   color: aquamarine;
   font-size: 16px;
 }
 
-img{
-  padding: 30px;
-}
-
-.footer{
+footer{
   text-align: right;
   color: gray;
 }
